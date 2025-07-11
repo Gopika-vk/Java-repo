@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-repo.iml" filepath="$PROJECT_DIR$/.idea/Java-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/counting values/countingValleys.iml" filepath="$PROJECT_DIR$/counting values/countingValleys.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci/fibonacci.iml" filepath="$PROJECT_DIR$/fibonacci/fibonacci.iml" />
     </modules>
   </component>
